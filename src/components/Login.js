@@ -23,7 +23,7 @@ export default function Login(props) {
                             <input type="password" name="txtPassword" placeholder="Password" required></input>
 
                             <button>Log In</button>
-                            <a asp-controller="Home" asp-action="Index">Cancel</a>
+                            
                         </div>
                     </form>
                     <div class="hexagons">
