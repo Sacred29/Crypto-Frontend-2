@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +35,15 @@
   to {
     transform: rotate(360deg);
   }
+} */
+body {
+  margin: 4em 5em;
+  background-image: url('./images/windowsBackground.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: 0 3em;
 }
+/* .AppBar {
+  margin-bottom: 10000px;
+  position: absolute;
+} */
